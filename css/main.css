@@ -215,7 +215,7 @@ sup {
 .region.middle.center {
   width: 100%;
   text-align: center;
-  transform: translateY(-50%);
+  transform: translateY(-90%);
 }
 
 .region.upper.third {
